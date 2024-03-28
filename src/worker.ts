@@ -6,7 +6,6 @@ import { ToYamlSubscription } from "./clash"
 import { ToBase64Subscription, ToRawSubscription } from "./sub"
 import { ToCustomConfigSubscription } from "./custom"
 import { Env, Config } from "./interfaces"
-
 let panelPath = ""
 
 export default {
